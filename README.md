@@ -2,7 +2,7 @@
 <h3>Creative Web Developer from Planet Earth!</h3>
 
 <p>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=02%2B+years+of+coding+experience;Always+exploring+new+things;Front+end+web+developer+"></a>
+  <a href="https://azizul-hakim01.firebaseapp.com" target="_blank"><img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=02%2B+years+of+coding+experience;Always+exploring+new+things;Front+end+web+developer+"></a>
 </p>
 
 
@@ -19,7 +19,6 @@
 ### 👨‍💻 Languages and Frameworks
 
 <img align="left" alt="ReactJs" title="ReactJS (I'm a JavaScript library)" height="32" width="32" src="https://img.icons8.com/color/48/000000/react-native.png"/>
-<img align="left" alt="Next.js" title="Next.js" height="32" width="32" src="https://i.ibb.co/4tkD414/nextjs.png"/>
 <img align="left" alt="ExpressJS" title="ExpressJS" height="32" width="32" src="https://i.imgur.com/HIF5Fwy.jpg"/>
 <img align="left" alt="JavaScript" title="JavaScript" height="32" width="32" src="https://img.icons8.com/color/48/000000/javascript--v1.png" />
 
