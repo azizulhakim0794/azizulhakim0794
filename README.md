@@ -2,7 +2,7 @@
 <h3>Creative Web Developer from Planet Earth!</h3>
 
 <p>
-  <a href="https://azizul-hakim01.firebaseapp.com" target="_blank"><img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=03%2B+years+of+coding+experience;Always+exploring+new+things;Front+end+web+developer+"></a>
+  <a href="https://azizul-hakim01.firebaseapp.com" target="_blank"><img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=04%2B+years+of+coding+experience;Always+exploring+new+things;Front+end+web+developer+"></a>
 </p>
 
 
