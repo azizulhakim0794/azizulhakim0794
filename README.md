@@ -9,7 +9,7 @@
 ### 🤝 Connect with me
 - 🌐 <b>Portfolio:</b> <a href="https://azizul-hakim01.firebaseapp.com/" target="_blank" title="Portfolio">azizul-hakim01.firebaseapp.com  </a>
 - 🌐 <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/azizul-hakimtamzid" target="_blank" title="LinkedIn">linkedin.com/in/azizul-hakimtamzid</a>
-- 📫 <b>Email:</b> aziulhakimtumzid0793@gmail.com
+- 📫 <b>Email:</b> aziultamzid@gmail.com
 
 
 <br />
